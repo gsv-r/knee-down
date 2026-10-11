@@ -1,15 +1,15 @@
-# Knee Down — Download (Windows x64)
+# Knee Down
 
-Launcher para GP Bikes.
+Launcher for GP Bikes.
 
-## Primeira instalação
+## First-Time Installation
 
-1. Abra **https://github.com/gsv-r/knee-down/releases/latest**
-2. Baixe o instalador **`KneeDown-<versão>-Setup.exe`**
-3. Execute o instalador e siga as telas.
+1. Open **https://github.com/gsv-r/knee-down/releases/latest**
+2. Download the installer **`KneeDown-<version>-Setup.exe`**
+3. Run the installer and follow the on-screen instructions.
 
-> `latest.yml` e `.blockmap` são arquivos internos do auto update — ignore esses arquivos.
+> `latest.yml` and `.blockmap` are internal auto-update files. Ignore them.
 
-## Atualizações
+## Updates
 
-O app detecta, baixa, instala e reinicia sozinho a partir das releases deste repositório.
+The app automatically detects, downloads, and installs updates from this repository’s releases, then restarts itself.
