@@ -13,5 +13,3 @@ Launcher for GP Bikes.
 ## Updates
 
 The app automatically detects, downloads, and installs updates from this repository’s releases, then restarts itself.
-
-<img width="1442" height="901" alt="Captura de tela 2026-11-04 115600" src="https://github.com/user-attachments/assets/c8cce443-8cb2-479e-b4c4-6cc64fa02616" />
