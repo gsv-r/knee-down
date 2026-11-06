@@ -1,6 +1,10 @@
-# Knee Down
+# Knee Down Client
 
-Launcher for GP Bikes.
+**The official desktop client for GP Bikes.**
+
+Knee Down Client is the desktop application for launching GP Bikes and accessing the Knee Down ecosystem.
+
+It serves as the entry point for the Knee Down experience, with game preparation, configuration management, and access to the official competitive environment as core parts of its direction.
 
 ## First-Time Installation
 
