@@ -1,17 +1,15 @@
 # Knee Down
 
-Knee Down is a launcher for GP Bikes. It launches the game and manages mods from one place: bikes, riders, paint jobs, tracks and tires.
+Knee Down starts GP Bikes and manages its mods: bikes, riders, paints, tracks and tires. It runs on Windows (x64).
 
 ## Download and install
 
-Knee Down runs on Windows (x64).
-
 1. Open the latest release page: https://github.com/gsv-r/knee-down/releases/latest
 2. Download the installer, `KneeDown.exe`.
-3. Run the file and follow the instructions on screen.
+3. Run it and follow the installer screens.
 
-The `latest.yml` and `.blockmap` files in the release are used by the automatic updater. You do not need to download them.
+The updater uses `latest.yml` and `.blockmap`. You do not need to download them.
 
 ## Updates
 
-Updates download and install automatically. You can also run the latest installer again at any time.
+Updates install automatically. You can also download and run the latest installer again at any time.
