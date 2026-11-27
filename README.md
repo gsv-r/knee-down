@@ -1,6 +1,6 @@
 # Knee Down
 
-Knee Down starts GP Bikes and manages its mods: bikes, riders, paints, tracks and tires. It runs on Windows (x64).
+Knee Down starts GP Bikes and manages its mods: bikes, riders, paints, tracks. It runs on Windows (x64).
 
 ## Download and install
 
