@@ -1,5 +1,7 @@
 # Knee Down
 
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DR2KW5wG6k)
+
 Knee Down starts GP Bikes and manages its mods: bikes, riders, paints, tracks. It runs on Windows (x64).
 
 ## Download and install
